@@ -1,4 +1,4 @@
-package meandbro.hellospring.HelloController;
+package meandbro.hellospring.domain;
 
 public class Hello {
     private String name;
