@@ -60,12 +60,4 @@ public class MemberServiceIntegrationTest {
         }*/
 
     }
-
-    @Test
-    void 전체회원조회() {
-    }
-
-    @Test
-    void 개별회원조회() {
-    }
 }
